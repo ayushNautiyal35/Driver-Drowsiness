@@ -7,6 +7,4 @@ tools used-
 opencv.
 
 libraries used-
-dlib
-
-face-recognition
+dlib,face-recognition
